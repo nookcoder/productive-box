@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: nookcoder/bff0744f9125fa7ffc3e93c564f377f8
+          GIST_ID: bff0744f9125fa7ffc3e93c564f377f8
           TIMEZONE: Asia/Seoul
